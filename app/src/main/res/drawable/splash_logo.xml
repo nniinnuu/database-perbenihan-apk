@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- tangkai -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57.5,92 L57.5,58 L62.5,58 L62.5,92 Z" />
+
+    <!-- daun kiri -->
+    <path
+        android:fillColor="#A5D6A7"
+        android:pathData="M58,64 C45,64 37,55 34,44.5 C46,44.5 55.5,51.5 58,64 Z" />
+
+    <!-- daun kanan -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,55 C62,38 70.5,30.5 82,28.5 C82,41 74.5,52.5 62,55 Z" />
+
+    <!-- titik tumbuh -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M60,50 m-2.6,0 a2.6,2.6 0 1,1 5.2,0 a2.6,2.6 0 1,1 -5.2,0" />
+</vector>

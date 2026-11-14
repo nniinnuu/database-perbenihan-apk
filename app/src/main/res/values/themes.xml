@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Perbenihan" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/hijau_tua</item>
+        <item name="android:navigationBarColor">@color/hijau_tua</item>
+        <item name="android:windowBackground">@color/hijau_tua</item>
+    </style>
+</resources>

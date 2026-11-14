@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Database Perbenihan</string>
+    <string name="pesan_offline">Tidak dapat memuat halaman.\nPeriksa koneksi internet Anda, lalu tekan Coba Lagi.</string>
+    <string name="coba_lagi">Coba Lagi</string>
+    <string name="splash_tagline">Kementerian Pertanian RI</string>
+</resources>
